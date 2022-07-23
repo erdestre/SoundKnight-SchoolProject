@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f63ff58770de1d7e4bd617c3665dc72b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - snake: {fileID: 6152979092749354713, guid: a70eb4539937bcb43bdc7f64a31acb89, type: 3}
+  - mage: {fileID: 2955314160359286334, guid: 4a465b6d801e70871b281498ce202a75, type: 3}
+  - dragon: {fileID: 5017282803395213509, guid: 8e5c1db94a6c04c9a9a813c8e475ca33, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

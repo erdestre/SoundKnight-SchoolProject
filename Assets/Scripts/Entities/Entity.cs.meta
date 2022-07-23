@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aa434445dbf5d28ba853bb7d018d9fec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerProgress: {instanceID: 0}
+  - attackCmdPrefab: {fileID: 5852425436551797426, guid: 508f17bf344c5c05da497909f1f417e7, type: 3}
+  - moveCmdPrefab: {fileID: 5852425436551797426, guid: ae85363135e1f496e8bbec70eee50341, type: 3}
+  - audioSource: {instanceID: 0}
+  - boxCollider: {instanceID: 0}
+  - AttackIndicator: {fileID: 9116181730181753773, guid: cffb425d667046a4795d20425f15a090, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
